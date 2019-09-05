@@ -34,7 +34,7 @@ tagline:               >
   可以用来记录自己的成长历程.
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [梁博，梁博的博客]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -43,18 +43,20 @@ logo:                  /assets/icons/icon.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                <梁> <博>
+  email:               <boyunrui@gmail.com>
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
+  - title:             心路历程
     url:               /example/
+  - title:             个人成果
+    url:               /projects/
   - title:             Documentation
     url:               https://hydejack.com/docs/
-  - title:             About
+  - title:             个人履历
     url:               /about/
 
 # Add links to the footer.
